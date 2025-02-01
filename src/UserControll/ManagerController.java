@@ -1,9 +1,5 @@
 package UserControll;
 
-public class ManagerController {
-	
-	
-
 	import User.Books;
 	import User.Sell;
 	import User.Manager;
